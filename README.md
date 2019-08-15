@@ -1,4 +1,3 @@
 # first-cheese
-My first repository on GitHub
-heiheiehi
-有没有看到我
+我在GitHub上的第一个存储库
+蔡依然
