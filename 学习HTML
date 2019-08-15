@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>笔记本电脑</title>
+  <link rel="stylesheet" href="css/luoshuaige.css" type="text/css" />
+  <style type="text/css">
+body { 
+	color:#000;
+	background-image: url(images/diannao.png);
+}
+#shit{
+	background-color: #ffccff;
+	width: 900px;
+	height: 390px;
+	margin: 0 auto;
+}
+div#shit2{
+	background-color: #ffffcc;
+	width: 900px;
+	height: 420px;
+    margin: 0 auto;
+    transform:rotate(3deg);
+-ms-transform:rotate(3deg); /* IE 9 */
+-moz-transform:rotate(3deg); /* Firefox */
+-webkit-transform:rotate(3deg); /* Safari and Chrome -o-transform:rotate(30deg); /* Opera */
+}
+div#shit3{
+	background-color: #ccffcc;
+	width: 900px;
+	height: 360px;
+    margin: 0 auto;
+    transform:rotate(-3deg);
+-ms-transform:rotate(-3deg); /* IE 9 */
+-moz-transform:rotate(-3deg); /* Firefox */
+-webkit-transform:rotate(-3deg); /* Safari and Chrome -o-transform:rotate(30deg); /* Opera */
+}
+#stupid{
+	height: 30px;
+}
+#header {
+	height: 165px;
+	text-align: center;
+}
+#daohang li{
+	margin: 20px;
+	padding: 5px;
+	display: inline;
+	text-align: center;
+}
+#daohang{
+	height: 100px;
+	font: 20px "微软雅黑";
+	text-align: center;
+}
+</style>
+</head>
+<body>
+    <div id = "header"><img src="images/shangmian3.png" height="165px;" width="900px;"></div>
+    <div id="shit">
+    <h2>笔记本电脑简介</h2>
+    <img src="images/bi.jpg" style="float:right;" width="320px;">
+    <hr>
+    <p>　　笔记本与台式机相比，笔记本电脑有着类似的结构组成（显示器、键盘、鼠标、CPU、内存和硬盘），但是笔记本电脑的优势还是非常明显的，其主要优点有体积小、重量轻、携带方便。 一般说来，便携性是笔记本相对于台式机电脑最大的优势，一般的笔记本电脑的重量只有2公斤左右，无论是外出工作还是旅游，都可以随身携带，非常方便。</p>
+    <p>　　从用途上看，笔记本电脑一般可以分为4类：商务型、时尚型、多媒体应用、特殊用途。</p>
+    <p>　　商务型笔记本电脑的特征一般为移动性强、电池续航时间长；时尚型外观特异也有适合商务使用的时尚型笔记本电脑；多媒体应用型的笔记本电脑是结合强大的图形及多媒体处理能力又兼有一定的移动性的综合体，市面上常见的多媒体笔记本电脑拥有独立的较为先进的显卡，较大的屏幕等特征；特殊用途的笔记本电脑是服务于专业人士，可以在酷暑、严寒、低气压、战争等恶劣环境下使用的机型，多较笨重。</p>
+    <p>　　从使用人群看，学生使用笔记本电脑主要用于教育和娱乐；发烧级笔记本爱好者不仅追求高品质的享受，而且对设备接口的齐全要求很高。</p>
+    <p>　　随着技术的发展，平板电脑得到了越来越广泛的应用，如苹果公司的iPAD，微软公司的Surface等。这些平板电脑将屏幕和主机集成在一起，获得了更好的便携性。</p>
+    </div>
+    <div id="shit2">
+    	<h2>笔记本电脑配件——鼠标</h2>
+    	<hr>
+    	<img src="images/shubiao.PNG" style="float:left" width="320px;">
+    	<p>　　鼠标，计算机的一种输入设备，也是计算机显示系统纵横坐标定位的指示器，因形似老鼠而得名（港台作滑鼠）。其标准称呼应该是“鼠标器”，英文名“Mouse”，鼠标的使用是为了使计算机的操作更加简便快捷，来代替键盘那繁琐的指令。</p>
+    	<p>　　鼠标是1964年由加州大学伯克利分校博士道格拉斯·恩格尔巴特（Douglas Engelbart）发明的，当时道格拉斯·恩格尔巴特在斯坦福研究所(SRI)工作，该研究所是斯坦福大学赞助的一个机构，Douglas Engelbart很早就在考虑如何使电脑的操作更加简便，用什么手段来取代由键盘输入的繁琐指令。</p>
+    	<p>　　鼠标按其工作原理的不同分为机械鼠标和光电鼠标，机械鼠标主要由滚球、辊柱和光栅信号传感器组成。当你拖动鼠标时，带动滚球转动，滚球又带动辊柱转动，装在辊柱端部的光栅信号传感器采集光栅信号。传感器产生的光电脉冲信号反映出鼠标器在垂直和水平方向的位移变化，再通过电脑程序的处理和转换来控制屏幕上光标箭头的移动。</p>
+    	<p>　　无论怎样，鼠标的应用催生了技术的进步。在电脑中，鼠标的操纵性往往起到关键性的作用，而鼠标制造商迎合这股风潮开始大刀阔斧的技术改良，从机械到光学、从有线到无线，造型新颖、工艺细腻的高端产品不断涌现。今天，一款高端鼠标甚至需要高达500元人民币才能买到，这在几年前是难以想象的。毫无疑问，一款优秀的鼠标产品会让操作电脑变得更富乐趣，这也是鼠标领域技术不断革新、高端产品层出不穷的一大诱因。</p>
+    </div>
+    <div id="shit3">
+    	<h2>笔记本电脑配件——键盘</h2>
+    	<hr>
+    	<img src="images/jianpan.jpg" style="float:right" width="320px;">
+    	<p>　　键盘是用于操作设备运行的一种指令和数据输入装置，也指经过系统安排操作一台机器或设备的一组功能键（如打字机、电脑键盘）。键盘也是组成键盘乐器的一部分，也可以指使用键盘的乐器，如钢琴、数位钢琴或电子琴等，键盘有助于练习打字。</p>
+    	<p>　　键盘是最常用也是最主要的输入设备，通过键盘可以将英文字母、数字、标点符号等输入到计算机中，从而向计算机发出命令、输入数据等。起初这类键盘多用于品牌机，并曾一度被视为品牌机的特色。</p>
+    	<p>　　不管键盘形式如何变化基本的按键排列还是保持基本不变，可以分为主键盘区、Num数字辅助键盘区、F键功能键盘区、控制键区，对于多功能键盘还增添了快捷键区。</p>
+    	<p>　　键盘电路板是整个键盘的控制核心，它位于键盘的内部，主要担任按键扫描识别，编码和传输接口的工作。</p>
+    	<p>　　全编码键盘是由硬件完成键盘识别功能的，它通过识别键是否按下以及所按下键的位置，由全编码电路产生一个唯一对应的编码信息（如ASCII码)。非编非编码键盘的速度较低，但结构简单的，并且通过软件能为某些键的重定义提供很大的方便。</p>
+    </div>
+    <div id="stupid"></div>
+ <div id="fix-left"><img src="images/log .png"></div>
+ 	  <div id="daohang">
+	  <ul>
+          <li><a href="shumaxiangji.html">数码相机</a></li>
+          <li><a href="shumachanpin.html">数码产品趣味知识</a></li>
+      </ul>
+      </div>
+</body>
+</html>
+By Royinmingos
